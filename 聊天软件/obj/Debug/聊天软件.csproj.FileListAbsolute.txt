@@ -1,0 +1,10 @@
+D:\Surbowl\Documents\C#\聊天软件\聊天软件\bin\Debug\聊天软件.exe.config
+D:\Surbowl\Documents\C#\聊天软件\聊天软件\bin\Debug\聊天软件.exe
+D:\Surbowl\Documents\C#\聊天软件\聊天软件\bin\Debug\聊天软件.pdb
+D:\Surbowl\Documents\C#\聊天软件\聊天软件\obj\Debug\聊天软件.csprojAssemblyReference.cache
+D:\Surbowl\Documents\C#\聊天软件\聊天软件\obj\Debug\聊天软件.Properties.Resources.resources
+D:\Surbowl\Documents\C#\聊天软件\聊天软件\obj\Debug\聊天软件.csproj.GenerateResource.cache
+D:\Surbowl\Documents\C#\聊天软件\聊天软件\obj\Debug\聊天软件.csproj.CoreCompileInputs.cache
+D:\Surbowl\Documents\C#\聊天软件\聊天软件\obj\Debug\聊天软件.exe
+D:\Surbowl\Documents\C#\聊天软件\聊天软件\obj\Debug\聊天软件.pdb
+D:\Surbowl\Documents\C#\聊天软件\聊天软件\obj\Debug\聊天软件.Form1_12.resources
